@@ -1,4 +1,4 @@
-/**
+/** File encryption with GOST2-128 in CBC mode.
  * javac Gost2File.java 
  * java Gost2File 
  *
