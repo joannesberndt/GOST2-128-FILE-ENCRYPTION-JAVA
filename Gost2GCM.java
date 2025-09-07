@@ -1,4 +1,4 @@
-/**
+/** File encryption with GOST2-128 in GCM mode.
  * javac Gost2GCM.java 
  * java Gost2GCM 
  *
